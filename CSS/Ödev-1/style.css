@@ -1,0 +1,41 @@
+
+.text-header{
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+}
+#baslik-1{
+    text-align: center;
+    color:mediumvioletred;
+    font-size:50px;
+    font-family: 'Roboto',sans-serif;
+
+
+}
+.links{
+   margin: 10px;
+}
+
+h2{
+    text-align: center;
+    color:mediumvioletred;
+    font-family: 'Roboto',sans-serif;
+
+}
+h3{
+    color:royalblue;
+    font-family: 'Roboto',sans-serif;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Roboto',sans-serif;
+}
+li{
+    font-size: 20px;
+    color:olive;
+    font-family: 'Roboto',sans-serif;
+}
+img{
+    margin: 10px;
+}
